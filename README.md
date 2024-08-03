@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srivarsh-21
+- 👋 Hi, I’m Sri Varshini R
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on github

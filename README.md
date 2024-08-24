@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me through gmail
+- 📫 Reach me through gmail using my email varshi2108@gmail.com
 
 <!---
 srivarsh-21/srivarsh-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
